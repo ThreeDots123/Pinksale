@@ -1,0 +1,6 @@
+export const createLaunchpadRoute = "/launchpad/create"
+export const createTokenRoute = "/launchpad/token/create"
+export const listLaunchpadsRoute = "/launchpads"
+export const createFairLaunchRoute = "/fairlaunch/create"
+export const createDutchAuctionRoute = "/dutch-auction/create"
+export const createSubscriptionPoolRoute = "/subscription-pool/create"
